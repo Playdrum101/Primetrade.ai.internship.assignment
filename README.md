@@ -29,8 +29,8 @@ This project is a simplified trading bot built in Python for the Binance Futures
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-github-repo-url>
-    cd <your-repo-name>
+    git clone <https://github.com/Playdrum101/Primetrade.ai.internship.assignment.git>
+    cd <Primetrade.ai.internship.assignment>
     ```
 2.  **Install dependencies:** Make sure you have Python installed. Then, install the required libraries using pip:
     ```bash
